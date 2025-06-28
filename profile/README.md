@@ -1,29 +1,9 @@
-# CLP – Calendar Language Platform
+# CLP – A Headless Calendar
 
-Welcome to the GitHub organization for CLP – a modular, open calendar engine designed for modern applications.
+CLP is a headless calendar backend designed for modern applications. It offers a command-based interface for full calendar functionality — including events, availability, and recurring logic — while giving developers complete control over deployment and integration.
 
-🚀 [Learn more on the project website](https://clp-calendar.github.io/clp_docs/)
+Unlike APIs or formats like iCalendar, CLP is a backend engine that’s ready to use, with client libraries to simplify implementation.
 
-## Key Projects
+Built for developers, SaaS platforms, and infrastructure projects that value privacy, flexibility, and data ownership.
 
-- [`clp`](https://github.com/clp-calendar/clp) – The backend calendar engine
-- [`clp-cli`](https://github.com/clp-calendar/clp-cli) – CLI code generator
-- [`clp-calendar.github.io`](https://github.com/clp-calendar/clp-calendar.github.io) – Project website and documentation
-- [`clp-ruby`](https://github.com/clp-calendar/clp-ruby) – Ruby client library
-
-## Get Involved
-
-We’re currently in the early stages of development and planning. If you're a developer, contributor, or funder interested in privacy-first infrastructure, check out our roadmap or open a discussion.
-
-🛠️ [GitHub Discussions](https://github.com/clp-calendar/clp-calendar.github.io/discussions)👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Read more](https://clp-calendar.github.io/clp_docs/)
