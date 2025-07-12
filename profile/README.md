@@ -1,6 +1,8 @@
 # SweetDate – A Headless Calendar
 
-SweetDate is a headless calendar backend designed for modern applications. It offers a command-based interface for full calendar functionality — including events, availability, and recurring logic — while giving developers complete control over deployment and integration.
+SweetDate, an open-source, headless calendar engine designed to support European values of openness, GDPR compliance, privacy, and interoperability.
+
+ It offers a command-based interface for full calendar functionality — including events, availability, and recurring logic — while giving developers complete control over deployment and integration.
 
 Unlike APIs or formats like iCalendar, SweetDate is a backend engine that’s ready to use, with client libraries to simplify implementation.
 
