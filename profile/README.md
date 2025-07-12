@@ -6,4 +6,4 @@ Unlike APIs or formats like iCalendar, SweetDate is a backend engine that’s re
 
 Built for developers, SaaS platforms, and infrastructure projects that value privacy, flexibility, and data ownership.
 
-[Read more](https://clp-calendar.github.io/clp_docs/)
+[Read more](https://sweetdate-calendar.github.io/sd_docs/)
